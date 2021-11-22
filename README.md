@@ -22,6 +22,9 @@ Zawiera 3 pliki tekstowe z samymi nazwami projektów - służyły one do stworze
 
 ## To-do-list/Pomysły
 [ ] wyodrębnienie klastrów, ze względu na rok, na miejsce 
+
 [ ] analiza kluczowości słów - względem określonego korpusu(?)
-[ ] wyodrębnienie części zdań - lista frekwencyjna z określeniem liczby czasowników, rzeczowników, itd,
+
+[ ] wyodrębnienie części zdań - lista frekwencyjna z określeniem liczby czasowników, rzeczowników, itd.
+
 [ ]
