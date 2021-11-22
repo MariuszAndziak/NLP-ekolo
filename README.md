@@ -15,7 +15,7 @@ filtrowanie - lista różnych form fleksyjnych, które były poszukiwane w nagł
 arkusz 3 - tabela przestawna ze zliczeniem miejscowości i lat, kiedy pojawiły się projekty <ekologiczne>
 
 ### Plik analiza_jezykow_budzetow.xlsx 
-Wynik analiz korpusów budżetów partycypacyjnych przy użyciu własnego słownika języka polskiego i programu Antconc (Anthony, L. (2020). AntConc (Version 3.5.9) [Computer Software]. Tokyo, Japan: Waseda University. Available from https://www.laurenceanthony.net/software). Sposób pracy prezentuję w podręczniku http://ozkultura.pl/node/7357. Dane to informacje o frekwencji poszczególnych słów - w formacie forma podstawowa - lemma i formy fleksyjne.
+Wynik analiz korpusów budżetów partycypacyjnych przy użyciu własnego słownika języka polskiego i programu Antconc (Anthony, L. (2020). AntConc (Version 3.5.9) [Computer Software]. Tokyo, Japan: Waseda University. Available from https://www.laurenceanthony.net/software). Sposób pracy, oraz sam słownik, prezentuję na stronie - http://ozkultura.pl/node/7357. Zawartość arkuszy to informacje o frekwencji poszczególnych słów - w formacie forma podstawowa - lemma i formy fleksyjne.
 
 ### Folder korpus
 Zawiera 3 pliki tekstowe z samymi nazwami projektów - służyły one do stworzenia pliku analiza_językowa_budżetów
