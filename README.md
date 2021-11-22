@@ -4,11 +4,13 @@
  
 ## Projekt analizy językowej budżetów partycypacyjnych. 
 
+
 .
 ├── korpus                   # Folder z plikami danych w formie tekstowej
 ├── budzety_obywatelskie.xlsx                 	 
 ├── analiza_jezykow_budzetow.xlsx              
 └── README.md
+
 
 
 ### Plik główny budzety_obywatelskie.xlsx
