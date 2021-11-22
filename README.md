@@ -5,14 +5,6 @@
 ## Projekt analizy językowej budżetów partycypacyjnych. 
 
 
-.
-├── korpus                   # Folder z plikami danych w formie tekstowej
-├── budzety_obywatelskie.xlsx                 	 
-├── analiza_jezykow_budzetow.xlsx              
-└── README.md
-
-
-
 ### Plik główny budzety_obywatelskie.xlsx
 
 Arkusz 1 - zawiera tytuły (nagłówki) projektów budżetów partycypacyjnych z 66 miast na prawach powiatu z lat 2018-2020. Dane zostały zebrane przeze Macieja Foltę i Mariusza Piotrowskiego w listopadzie 2020. Dane były pobierane ze stron internetowych miast (w tym archiwów prasowych, w przypadku braku innych źródeł). Struktura danych w arkuszu to rok, kiedy dany projekt pojawił się w głosowaniu, miasto, czyli gdzie został on złożony i nazwa, czyli tytuł projektu.
