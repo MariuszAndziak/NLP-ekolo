@@ -20,5 +20,8 @@ Wynik analiz korpusów budżetów partycypacyjnych przy użyciu własnego słown
 ### Folder korpus
 Zawiera 3 pliki tekstowe z samymi nazwami projektów - służyły one do stworzenia pliku analiza_językowa_budżetów
 
-## To-do-list
-[] wyodrębnienie klastrów, ze względu na rok, na miejsce 
+## To-do-list/Pomysły
+[ ] wyodrębnienie klastrów, ze względu na rok, na miejsce 
+[ ] analiza kluczowości słów - względem określonego korpusu(?)
+[ ] wyodrębnienie części zdań - lista frekwencyjna z określeniem liczby czasowników, rzeczowników, itd,
+[ ]
