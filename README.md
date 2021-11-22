@@ -1,4 +1,6 @@
 # NLP-ekolo
+
+ Najstarsza inspiracja dla realizacji tego projektu to wpis z 2012 roku na blogu, niestety już bez wykresów, http://smarterpoland.pl/index.php/2012/02/piatek-chmura-slow-textmining-morfologik-i-oczywiscie-r/
  
 ## Projekt analizy językowej budżetów partycypacyjnych. 
 
