@@ -48,5 +48,5 @@ Utworzenie grafu z zależnościami między poszczególnymi miastami. Liczba mię
 ### 14_2_spell_checker_happytransformer.ipynb
 ### 14_3_spell_checker_textblob.ipynb
 ### 14_spell_checker_autocorrect.ipynb
-Różne metody sprawdzenia pisowni w nazwa budżetów.
+Różne metody sprawdzenia pisowni w nazwach budżetów.
 <img src="images/spell.png">
