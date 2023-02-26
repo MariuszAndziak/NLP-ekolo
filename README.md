@@ -16,3 +16,16 @@ Użycie Bertopic i wyodrębnienie tematów z nazw budżetów.
 
 ## 03_lda.ipynb
 Użycie LDA jako alternatywnej metody pozyskania tematów.
+<img src="images/lda.png">
+
+## 04_bonus_top2vec_vis.ipynb
+Zastosowanie modelu Top2Vec
+* Wytrenowanie modelu
+* Wizualizacja tematów
+* Użycie embeddingów, aby znaleźć podobieństwa między tematami
+
+
+## 05_visualisation_map.ipynb
+Utworzenie mapy z wizualną reprezentacją tematów
+* Budżety partycypacyjne miały informacje z jakich miast pochodzą, co umożliwiło połączenie tego z utworzonymi wcześniej tematami i zwizualizowanie jakie regiony kraju posiadają poszczególne rodzaje budżetów
+<img src="images/Animation.webp">
