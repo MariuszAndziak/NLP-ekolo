@@ -1,4 +1,6 @@
 ## Analiza językowej budżetów partycypacyjnych polskich miast
+> Celem projektu było wykonanie analizy budżetów partycypacyjnych polskich miast pod kątem istniejących w nich wspólnych tematów, trendów, zależności.
+
 > Dane z katalogu 'inputs' pochodzą od: https://github.com/maryanoo/NLP-ekolo
 
 > Realizacja w ramach projektu NLP grupy Warszawsko-Międzymiastowo-Międzynarodowej
