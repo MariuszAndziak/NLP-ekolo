@@ -41,6 +41,7 @@ Utworzenie encji (named entity recognition) w oparciu o słowa powiązane z wyod
 
 ## 12_graph_cities.ipynb
 Utworzenie grafu z zależnościami między poszczególnymi miastami. Liczba między miastami wskazuje ile dane miasto ma tematów podobnych z danym innym miastem.
+
 <img src="images/graph.webp">
 
 # 14_1_spell_checker_JamSpell.ipynb
