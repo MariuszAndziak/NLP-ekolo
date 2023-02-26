@@ -34,6 +34,7 @@ Plus notatniki:
 * 07_bonus_colab_how_to_use_fasttext-ekolo_model.ipynb
 * 08_bonus_how_to_make_glove-ekolo_model.ipynb
 * 09_bonus_colab_how_to_use_glove-ekolo_model.ipynb
+
 Dodatkowe notatniki pokazujące sposoby utworzenia i używania alternatywnych embeddingów.
 
 ## 11_ner.ipynb
@@ -50,5 +51,6 @@ Plus notatniki:
 * 14_2_spell_checker_happytransformer.ipynb
 * 14_3_spell_checker_textblob.ipynb
 * 14_spell_checker_autocorrect.ipynb
+
 Różne metody sprawdzenia pisowni w nazwach budżetów.
 <img src="images/spell.png">
