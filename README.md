@@ -27,6 +27,7 @@ Zastosowanie modelu Top2Vec
 ## 05_visualisation_map.ipynb
 Utworzenie mapy z wizualną reprezentacją tematów
 * Budżety partycypacyjne miały informacje z jakich miast pochodzą, co umożliwiło połączenie tego z utworzonymi wcześniej tematami i zwizualizowanie jakie regiony kraju posiadają poszczególne rodzaje budżetów
+<p>
 <img src="images/Animation.webp">
 
 ### 06_bonus_how_to_make_fasttext-ekolo_model.ipynb
