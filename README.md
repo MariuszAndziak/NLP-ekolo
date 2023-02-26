@@ -1,4 +1,4 @@
-## Wstęp do projektu analizy językowej budżetów partycypacyjnych 
+## Analiza językowej budżetów partycypacyjnych polskich miast
 > Dane z katalogu 'inputs' pochodzą od: https://github.com/maryanoo/NLP-ekolo
 
 > Realizacja w ramach projektu NLP grupy Warszawsko-Międzymiastowo-Międzynarodowej
