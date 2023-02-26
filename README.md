@@ -22,8 +22,7 @@ Użycie LDA jako alternatywnej metody pozyskania tematów.
 Zastosowanie modelu Top2Vec
 * Wytrenowanie modelu
 * Wizualizacja tematów
-* Użycie embeddingów, aby znaleźć podobieństwa między tematami
-
+<img src="images/Animation2.webp">
 
 ## 05_visualisation_map.ipynb
 Utworzenie mapy z wizualną reprezentacją tematów
