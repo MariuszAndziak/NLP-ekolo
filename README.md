@@ -28,3 +28,17 @@ Zastosowanie modelu Top2Vec
 Utworzenie mapy z wizualną reprezentacją tematów
 * Budżety partycypacyjne miały informacje z jakich miast pochodzą, co umożliwiło połączenie tego z utworzonymi wcześniej tematami i zwizualizowanie jakie regiony kraju posiadają poszczególne rodzaje budżetów
 <img src="images/Animation.webp">
+
+## 06_bonus_how_to_make_fasttext-ekolo_model.ipynb
+## 07_bonus_colab_how_to_use_fasttext-ekolo_model.ipynb
+## 08_bonus_how_to_make_glove-ekolo_model.ipynb
+## 09_bonus_colab_how_to_use_glove-ekolo_model.ipynb
+Dodatkowe notatniki pokazujące sposoby utworzenia i używania alternatywnych embeddingów.
+
+## 11_ner.ipynb
+Utworzenie encji (named entity recognition) w oparciu o słowa powiązane z wyodrębnionymi wcześniej tematami
+<img src="images/ner.png">
+
+## 12_graph_cities.ipynb
+Utworzenie grafu z zależnościami między poszczególnymi miastami. Liczba między miastami wskazuje ile dane miasto ma tematów podobnych z danym innym miastem.
+<img src="images/graph.webp">
