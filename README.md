@@ -1,7 +1,7 @@
 ## Wstęp do projektu analizy językowej budżetów partycypacyjnych 
-Dane z katalogu 'inputs' pochodzą od: https://github.com/maryanoo/NLP-ekolo
+> Dane z katalogu 'inputs' pochodzą od: https://github.com/maryanoo/NLP-ekolo
 
-Realizacja w ramach projektu NLP grupy Warszawsko-Międzymiastowo-Międzynarodowej
+> Realizacja w ramach projektu NLP grupy Warszawsko-Międzymiastowo-Międzynarodowej
 https://github.com/DataWorkshop-Foundation/WMM-NLP-project
 
 ## 00_ideas_and_issues.ipynb
@@ -30,9 +30,10 @@ Utworzenie mapy z wizualną reprezentacją tematów
 <img src="images/Animation.webp">
 
 ## 06_bonus_how_to_make_fasttext-ekolo_model.ipynb
-### 07_bonus_colab_how_to_use_fasttext-ekolo_model.ipynb
-### 08_bonus_how_to_make_glove-ekolo_model.ipynb
-### 09_bonus_colab_how_to_use_glove-ekolo_model.ipynb
+Plus notatniki:
+* 07_bonus_colab_how_to_use_fasttext-ekolo_model.ipynb
+* 08_bonus_how_to_make_glove-ekolo_model.ipynb
+* 09_bonus_colab_how_to_use_glove-ekolo_model.ipynb
 Dodatkowe notatniki pokazujące sposoby utworzenia i używania alternatywnych embeddingów.
 
 ## 11_ner.ipynb
@@ -45,8 +46,9 @@ Utworzenie grafu z zależnościami między poszczególnymi miastami. Liczba mię
 <img src="images/graph.webp">
 
 ## 14_1_spell_checker_JamSpell.ipynb
-### 14_2_spell_checker_happytransformer.ipynb
-### 14_3_spell_checker_textblob.ipynb
-### 14_spell_checker_autocorrect.ipynb
+Plus notatniki:
+* 14_2_spell_checker_happytransformer.ipynb
+* 14_3_spell_checker_textblob.ipynb
+* 14_spell_checker_autocorrect.ipynb
 Różne metody sprawdzenia pisowni w nazwach budżetów.
 <img src="images/spell.png">
