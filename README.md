@@ -1,4 +1,5 @@
 ## Analiza językowej budżetów partycypacyjnych polskich miast
+[![Generic badge](https://img.shields.io/badge/languge-polish-red.svg)](https://shields.io/)
 > Celem projektu było wykonanie analizy budżetów partycypacyjnych polskich miast pod kątem istniejących w nich wspólnych tematów, trendów, zależności.
 
 > Dane z katalogu 'inputs' pochodzą od: https://github.com/maryanoo/NLP-ekolo
