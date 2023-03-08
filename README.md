@@ -50,9 +50,7 @@ Utworzenie grafu z zależnościami między poszczególnymi miastami. Liczba mię
 <img src="images/graph.webp">
 
 ## 14_1_spell_checker_JamSpell.ipynb
-Plus notatniki:
-* 14_2_spell_checker_happytransformer.ipynb
-* 14_3_spell_checker_textblob.ipynb
+Plus notatnik:
 * 14_spell_checker_autocorrect.ipynb
 
 Różne metody sprawdzenia pisowni w nazwach budżetów.
